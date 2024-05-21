@@ -1,3 +1,3 @@
 # NTT
-##NTT
-###NTT
+## NTT
+### NTT
